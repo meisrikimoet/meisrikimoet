@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 ![Maruko](https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2024/11/13/img_20241113_134111jpg-20241113014224.jpg)
-![ss](Screenshot (34).png)
+
+![ss](Screenshot(34).png)
 
 
