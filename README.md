@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there 👋 I'm a Computer Science student who loves learning by building.
+🌍 Open to contributing to open-source and collaborating on creative tech ideas.
+📚 Always exploring new technologies and building projects that make a difference.
 
 <!--
 **meisrikimoet/meisrikimoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
