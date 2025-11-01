@@ -1,4 +1,4 @@
-## Hey there 👋 I'm a Computer Science student who loves learning by building.
+<img width="700" height="465" alt="image" src="https://github.com/user-attachments/assets/0ee0c176-765c-4538-9e85-022a732c0ceb" />## Hey there 👋 I'm a Computer Science student who loves learning by building.
 🌍 Open to contributing to open-source and collaborating on creative tech ideas.
 📚 Always exploring new technologies and building projects that make a difference.
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Maruko](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbobo.grid.id%2Fread%2F084180738%2Fkenapa-karakter-utama-anime-chibi-maruko-chan-dipanggil-chibi%3Fpage%3Dall&psig=AOvVaw19uG0TNrpGkHGVs4ktCgEL&ust=1762063450095000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJivsoKk0JADFQAAAAAdAAAAABAE)
+![Maruko](https://cdn.grid.id/crop/0x0:0x0/700x465/photo/2024/11/13/img_20241113_134111jpg-20241113014224.jpg)
 
