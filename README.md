@@ -1,4 +1,3 @@
-<img width="700" height="465" alt="image" src="https://github.com/user-attachments/assets/0ee0c176-765c-4538-9e85-022a732c0ceb" />## Hey there 👋 I'm a Computer Science student who loves learning by building.
 🌍 Open to contributing to open-source and collaborating on creative tech ideas.
 📚 Always exploring new technologies and building projects that make a difference.
 
