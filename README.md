@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![]()
 -->
+
+
+![Maruko](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbobo.grid.id%2Fread%2F084180738%2Fkenapa-karakter-utama-anime-chibi-maruko-chan-dipanggil-chibi%3Fpage%3Dall&psig=AOvVaw19uG0TNrpGkHGVs4ktCgEL&ust=1762063450095000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJivsoKk0JADFQAAAAAdAAAAABAE)
+
